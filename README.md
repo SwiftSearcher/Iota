@@ -1,4 +1,5 @@
 IOTA
+
 Internet Obliterates Tracking Application
 
 Iota is a bug with the CK-Authenticator extension, causing it to just... not turn on? This isn't really an exploit per se, rather a fatal flaw in CK-Auth. I still can't figure out why it happens, but I might as well go ahead and tell you how to make it happen.
